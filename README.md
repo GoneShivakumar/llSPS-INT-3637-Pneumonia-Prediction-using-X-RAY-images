@@ -1,1 +1,1 @@
-# https://github.com/SmartPracticeschool/llSPS-INT-3637-Pneumonia-Prediction-using-X-RAY-images
+# NaveenYada.Nikhilbharadwaj123.SyedaSaraSarwath.GoneShivakumar.pneumonia-prediction-using-xray-images
