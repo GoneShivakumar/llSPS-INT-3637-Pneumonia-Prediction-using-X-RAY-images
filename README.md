@@ -1,1 +1,1 @@
-# Nikhilbharadwaj123.SyedaSaraSarwath.GoneShivakumar.pneumonia-prediction-using-xray-images
+# GoneShivakumar.Nikhilbharadwaj123.SyedaSaraSarwath.NaveenYada.pneumonia-prediction-using-xray-images
